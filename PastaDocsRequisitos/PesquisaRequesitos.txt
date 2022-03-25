@@ -1,0 +1,29 @@
+Jump Park:
+
+-Aplicativo Operacional:
+*Aplictivo operacional para estacionamento
+*Controle de rotativos, convênios e mensalistas
+*Abertura e fechamento de caixa, Sangria e despesas
+*Envio de recibos por Whatsapp ou e-mail
+
+-Sistema Administrativo:
+*Fluxo de caixa completo
+*Relatórios detalhados do rotativo
+*Regime de contas
+
+-Clientes:
+*Controle de convênios ou pós-pago
+*Envio de recibos das faturas por e-mail
+*Restrições avançadas de uso dos mensalistas
+
+-Configurações:
+*Restrições operacionais por Perfil
+*Cadastro de tabelas flexíveis com automatizações
+*Criações de meios de pagamentos
+
+-Integrações:
+-Geração e envio com filtros de NFS-e
+-Os equipamentos mais populares do mercado
+-Sem Parar e Connect Car
+
+
